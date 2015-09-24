@@ -1,2 +1,2 @@
 # hello-world
-Initial Setup Repository
+Initial Something Repository
